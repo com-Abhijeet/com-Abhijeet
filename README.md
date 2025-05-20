@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=com-abhijeet" alt="com-abhijeet" /></a> </p>
 
-- 🔭 I’m currently working on **Blood Positive**
+- 🔭 I’m currently working on **SMS FOR SCHOOLS**
 
 - 🌱 I’m currently learning **React Native**
 
